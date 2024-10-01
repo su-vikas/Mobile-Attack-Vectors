@@ -50,4 +50,6 @@
 ---
 
 # In News
+
 - [Australian digital driving licenses can be defaced in minutes](https://www.theregister.com/2022/05/30/nsw_digital_drivers_licenses_hackable)
+- [Singapore's banks to ditch texted one-time passwords](https://www.theregister.com/2024/07/12/singapore_banks_fight_phishing/)
