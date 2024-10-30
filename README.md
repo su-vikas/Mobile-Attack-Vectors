@@ -37,6 +37,9 @@
 - [Pushing malware via  TestFlight and Web Clips](https://arstechnica.com/information-technology/2022/03/scammers-have-2-clever-new-ways-to-install-malicious-apps-on-ios-devices/)
 - [Tricking App Store Review Into Approving Malicious Apps](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
 
+## Jailbreaking
+- [LightSpy - Using SafariRCE and performing Jailbreaking](https://www.threatfabric.com/blogs/lightspy-implant-for-ios)
+
 ## App Cloning
 - [https://arstechnica.com/security/2024/02/a-password-manager-lastpass-calls-fraudulent-booted-from-app-store/](https://arstechnica.com/security/2024/02/a-password-manager-lastpass-calls-fraudulent-booted-from-app-store/)
 
