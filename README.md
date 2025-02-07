@@ -26,6 +26,11 @@
 ## Screen Recording
 - [Malware performing screen recording](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/spyware-distributed-through-amazon-appstore/)
 
+## ScreenShots
+- [Malware performing OCR on the screenshots](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play-2/115385/)
+
+The app is available on the Play store. 
+
 ## Others
 - [Race conditions on Android Custom Permissions (2014)](https://datatheorem.github.io/2014/04/16/custom-permissions/)
 - [Reverse shell without visible permissions](https://www.mobile-hacker.com/2023/09/27/get-persistent-reverse-shell-from-android-app-without-visible-permissions-to-make-device-unusable/)
@@ -44,6 +49,9 @@
 
 ## App Cloning
 - [https://arstechnica.com/security/2024/02/a-password-manager-lastpass-calls-fraudulent-booted-from-app-store/](https://arstechnica.com/security/2024/02/a-password-manager-lastpass-calls-fraudulent-booted-from-app-store/)
+
+## ScreenShots
+- [Malware performing OCR on the screenshots](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play-2/115385/)
 
 ## Others
 - [Stealing biometric Data - Trojan, which pretends to be a govt or banking app, steals biometric data. Then uses AI to augment the data and use it as biometric data on real websites](https://www.tomsguide.com/computing/malware-adware/first-ever-ios-trojan-discovered-and-its-stealing-face-id-data-to-break-into-bank-accounts)
