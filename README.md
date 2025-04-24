@@ -29,11 +29,11 @@
 
 ## ScreenShots
 - [Malware performing OCR on the screenshots](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play-2/115385/)
+    The app is available on the Play store. 
 
 ## NFC
 - [NFC data capture when physical card is placed near infected device](https://www.cleafy.com/cleafy-labs/supercardx-exposing-chinese-speaker-maas-for-nfc-relay-fraud-operation)
 
-The app is available on the Play store. 
 
 ## Others
 - [Race conditions on Android Custom Permissions (2014)](https://datatheorem.github.io/2014/04/16/custom-permissions/)
