@@ -14,6 +14,7 @@
 
 ## Hooking
 - [Predator - hooking using YAHFA framework](https://blog.talosintelligence.com/mercenary-intellexa-predator/)
+- [Whatsapp hooked using LSPatch, to steal cryptocurrency](https://news.drweb.com/show/?lng=en&i=15002&c=5) 
 
 ## MITM
 - [Predator in The Wires](https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/)  
@@ -28,6 +29,9 @@
 
 ## ScreenShots
 - [Malware performing OCR on the screenshots](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play-2/115385/)
+
+## NFC
+- [NFC data capture when physical card is placed near infected device](https://www.cleafy.com/cleafy-labs/supercardx-exposing-chinese-speaker-maas-for-nfc-relay-fraud-operation)
 
 The app is available on the Play store. 
 
