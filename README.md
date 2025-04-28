@@ -3,6 +3,7 @@
 ## Clipboard Data
 - [First clipper malware discovered on Google Play](https://www.welivesecurity.com/2019/02/08/first-clipper-malware-google-play/)
 - [SHEIN app clipboard unintended exposure](https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/)
+- [Samsung devices storing clipboard content in plaintext on the devices](https://www.theregister.com/2025/04/28/security_news_in_brief/)
 
 ## Application Tampering/Patching
 - [Agent Smith](https://research.checkpoint.com/agent-smith-a-new-species-of-mobile-malware/)
