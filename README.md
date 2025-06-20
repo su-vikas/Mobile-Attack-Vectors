@@ -16,6 +16,7 @@
 ## Hooking
 - [Predator - hooking using YAHFA framework](https://blog.talosintelligence.com/mercenary-intellexa-predator/)
 - [Whatsapp hooked using LSPatch, to steal cryptocurrency](https://news.drweb.com/show/?lng=en&i=15002&c=5) 
+- [Your Mobile App, Their Playground: The Dark side of the Virtualization](https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization)
 
 ## MITM
 - [Predator in The Wires](https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/)  
@@ -34,6 +35,10 @@
 
 ## NFC
 - [NFC data capture when physical card is placed near infected device](https://www.cleafy.com/cleafy-labs/supercardx-exposing-chinese-speaker-maas-for-nfc-relay-fraud-operation)
+
+## App Virtualisation
+- [Your Mobile App, Their Playground: The Dark side of the Virtualization](https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization)
+- [FjordPhantom Android Malware Targets Banks With Virtualization](https://www.infosecurity-magazine.com/news/fjordphantom-malware-targets-banks/)
 
 
 ## Others
