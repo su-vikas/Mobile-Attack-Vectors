@@ -35,9 +35,10 @@
 
 ## NFC
 - [NFC data capture when physical card is placed near infected device](https://www.cleafy.com/cleafy-labs/supercardx-exposing-chinese-speaker-maas-for-nfc-relay-fraud-operation)
+- [PhantomCard - NFC-relay based attacks](https://www.threatfabric.com/blogs/phantomcard-new-nfc-driven-android-malware-emerging-in-brazil)
 
 ## App Virtualisation
-- [Your Mobile App, Their Playground: The Dark side of the Virtualization](https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization)
+- [Your Mobile App, Their Playground: The Dark side of the Virtualization (Godfather Malware)](https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization)
 - [FjordPhantom Android Malware Targets Banks With Virtualization](https://www.infosecurity-magazine.com/news/fjordphantom-malware-targets-banks/)
 
 
