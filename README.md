@@ -32,6 +32,7 @@
 ## ScreenShots
 - [Malware performing OCR on the screenshots](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play-2/115385/)
     The app is available on the Play store. 
+- [Malware taking screenshots using Accessibility Services](https://www.threatfabric.com/blogs/perseus-dto-malware-that-takes-notes)
 
 ## NFC
 - [NFC data capture when physical card is placed near infected device](https://www.cleafy.com/cleafy-labs/supercardx-exposing-chinese-speaker-maas-for-nfc-relay-fraud-operation)
