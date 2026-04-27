@@ -12,11 +12,13 @@
 - [WyrmSpy and DragonEgg](https://www.lookout.com/threat-intelligence/article/wyrmspy-dragonegg-surveillanceware-apt41) 
 - [Camero - CVE-2019-2215](https://arstechnica.com/information-technology/2020/01/researchers-unearth-malicious-google-play-apps-linked-to-active-exploit-hackers/)
 - [AbstractEmu](https://www.lookout.com/threat-intelligence/article/lookout-discovers-global-rooting-malware-campaign)
+- [NoVoice](https://www.mcafee.com/blogs/internet-security/operation-novoice-android-malware-mcafee-research/)
 
 ## Hooking
 - [Predator - hooking using YAHFA framework](https://blog.talosintelligence.com/mercenary-intellexa-predator/)
 - [Whatsapp hooked using LSPatch, to steal cryptocurrency](https://news.drweb.com/show/?lng=en&i=15002&c=5) 
 - [Your Mobile App, Their Playground: The Dark side of the Virtualization](https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization)
+- [NoVoice - Modifies Android system libraries](https://www.mcafee.com/blogs/internet-security/operation-novoice-android-malware-mcafee-research/)
 
 ## MITM
 - [Predator in The Wires](https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/)  
