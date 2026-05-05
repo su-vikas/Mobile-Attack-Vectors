@@ -30,6 +30,7 @@
 
 ## Screen Recording
 - [Malware performing screen recording](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/spyware-distributed-through-amazon-appstore/)
+- [By exploiting Android’s MediaProjection framework, a feature originally intended for legitimate screen sharing and recording](https://zimperium.com/blog/android-bankers-4-campaigns-in-a-row)
 
 ## ScreenShots
 - [Malware performing OCR on the screenshots](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play-2/115385/)
@@ -44,6 +45,11 @@
 - [Your Mobile App, Their Playground: The Dark side of the Virtualization (Godfather Malware)](https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization)
 - [FjordPhantom Android Malware Targets Banks With Virtualization](https://www.infosecurity-magazine.com/news/fjordphantom-malware-targets-banks/)
 
+## ADB
+- [Enables wireless debugging and pairs itself with ADB daemon](https://osservatorionessuno.org/blog/2026/04/morpheus-a-new-spyware-linked-to-ips-intelligence/)
+
+## Biometrics
+- [Getting biometric approval using overlays](https://osservatorionessuno.org/blog/2026/04/morpheus-a-new-spyware-linked-to-ips-intelligence/)
 
 ## Others
 - [Race conditions on Android Custom Permissions (2014)](https://datatheorem.github.io/2014/04/16/custom-permissions/)
@@ -57,6 +63,7 @@
 
 - [Pushing malware via  TestFlight and Web Clips](https://arstechnica.com/information-technology/2022/03/scammers-have-2-clever-new-ways-to-install-malicious-apps-on-ios-devices/)
 - [Tricking App Store Review Into Approving Malicious Apps](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
+- [Using enterprise provisioning profile to install malicious apps](https://securelist.com/fakewallet-cryptostealer-ios-app-store/119474/)
 
 ## Jailbreaking
 - [LightSpy - Using SafariRCE and performing Jailbreaking](https://www.threatfabric.com/blogs/lightspy-implant-for-ios)
