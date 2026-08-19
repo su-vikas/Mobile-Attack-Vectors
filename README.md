@@ -19,6 +19,8 @@
 - [Whatsapp hooked using LSPatch, to steal cryptocurrency](https://news.drweb.com/show/?lng=en&i=15002&c=5) 
 - [Your Mobile App, Their Playground: The Dark side of the Virtualization](https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization)
 - [NoVoice - Modifies Android system libraries](https://www.mcafee.com/blogs/internet-security/operation-novoice-android-malware-mcafee-research/)
+- [TrickMo - Can perform hooking using Pine Framework](https://www.threatfabric.com/blogs/new-trickmo-variant-device-take-over-malware-targeting-banking-fintech-wallet-auth-app)
+- [Using XPosed to hook Android NFC](https://www.cleafy.com/cleafy-labs/nfc-relay-goes-local-how-ai-is-accelerating-a-new-wave-of-independent-malware-developers)
 
 ## MITM
 - [Predator in The Wires](https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/)  
@@ -44,6 +46,7 @@
 ## App Virtualisation
 - [Your Mobile App, Their Playground: The Dark side of the Virtualization (Godfather Malware)](https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization)
 - [FjordPhantom Android Malware Targets Banks With Virtualization](https://www.infosecurity-magazine.com/news/fjordphantom-malware-targets-banks/)
+- [GoldDigger Android malware](https://www.ibm.com/think/security/golddigger-android-malware-analysis)
 
 ## ADB
 - [Enables wireless debugging and pairs itself with ADB daemon](https://osservatorionessuno.org/blog/2026/04/morpheus-a-new-spyware-linked-to-ips-intelligence/)
