@@ -7,6 +7,7 @@
 
 ## Application Tampering/Patching
 - [Agent Smith](https://research.checkpoint.com/agent-smith-a-new-species-of-mobile-malware/)
+- [Hirudo](https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps)
 
 ## Device Rooting
 - [WyrmSpy and DragonEgg](https://www.lookout.com/threat-intelligence/article/wyrmspy-dragonegg-surveillanceware-apt41) 
@@ -21,6 +22,7 @@
 - [NoVoice - Modifies Android system libraries](https://www.mcafee.com/blogs/internet-security/operation-novoice-android-malware-mcafee-research/)
 - [TrickMo - Can perform hooking using Pine Framework](https://www.threatfabric.com/blogs/new-trickmo-variant-device-take-over-malware-targeting-banking-fintech-wallet-auth-app)
 - [Using XPosed to hook Android NFC](https://www.cleafy.com/cleafy-labs/nfc-relay-goes-local-how-ai-is-accelerating-a-new-wave-of-independent-malware-developers)
+- [Hirudo](https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps)
 
 ## MITM
 - [Predator in The Wires](https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/)  
@@ -53,6 +55,9 @@
 
 ## Biometrics
 - [Getting biometric approval using overlays](https://osservatorionessuno.org/blog/2026/04/morpheus-a-new-spyware-linked-to-ips-intelligence/)
+
+## Key Attestation Bypass
+- [Hirudo](https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps)
 
 ## Others
 - [Race conditions on Android Custom Permissions (2014)](https://datatheorem.github.io/2014/04/16/custom-permissions/)
